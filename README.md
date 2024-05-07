@@ -1,16 +1,13 @@
-<h1 align="center"><b>Hi , I'm Miguel Soto </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Miguel Soto </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<picture>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MiguelSotoD/MiguelSotoD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-<!--Languages and Tools Section-->       
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me 
+<h3 aling="center">I am a junior programmer. I am currently pursuing my degree in Software Engineering, I have been working with web and mobile applications these last two years, both in FrontEnd and BackEnd. I consider myself a responsible person with what he does and disciplined in what I do.</h3>
+<br><br>
+- :school: I'm studying at the [Technological University of Durango]([http://suez.edu.eg/ar/](https://utd.edu.mx/)).
+- :student: I’m currently learning `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([http://lnkiy.in/Ahmed_Hossam_Resume](https://www.canva.com/design/DAGCiOtogkM/H9ZBzAjF22sXjiLE-bdmQQ/view?utm_content=DAGCiOtogkM&utm_campaign=designshare&utm_medium=link&utm_source=editor)).
+##   
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />

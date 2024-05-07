@@ -3,7 +3,8 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me 
 <h3 aling="center">I am a junior programmer. I am currently pursuing my degree in Software Engineering, I have been working with web and mobile applications these last two years, both in FrontEnd and BackEnd. I consider myself a responsible person with what he does and disciplined in what I do.</h3>
 <br><br>
-- :school: I'm studying at the [Technological University of Durango]([http://suez.edu.eg/ar/](https://utd.edu.mx/)).
+school: I'm studying at the [Technological University of Durango]([http://suez.edu.eg/ar/](https://utd.edu.mx/)).
+<br>
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([http://lnkiy.in/Ahmed_Hossam_Resume](https://www.canva.com/design/DAGCiOtogkM/H9ZBzAjF22sXjiLE-bdmQQ/view?utm_content=DAGCiOtogkM&utm_campaign=designshare&utm_medium=link&utm_source=editor)).

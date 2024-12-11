@@ -1,6 +1,12 @@
 <h1 align="center">Hi, I'm Miguel Soto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
-[PORTFOLIO HERE!!!](https://portafolio-one-psi.vercel.app/)
+
+<p align="center">
+  <a href="https://portafolio-one-psi.vercel.app/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🌐-View%20My%20Portfolio-blueviolet?style=for-the-badge" alt="Portfolio Badge" />
+  </a>
+</p>
+
 <br>
 <p align="center"> 
 I am a junior programmer. I am currently pursuing my degree in Software Engineering, I have been working with web and mobile applications these last two years, both in FrontEnd and BackEnd. I consider myself a responsible person with what he does and disciplined in what I do. 

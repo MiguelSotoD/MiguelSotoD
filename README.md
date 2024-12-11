@@ -9,7 +9,6 @@ I am a junior programmer. I am currently pursuing my degree in Software Engineer
     <img src="https://img.shields.io/badge/🌐-View%20My%20Portfolio-blueviolet?style=for-the-badge" alt="Portfolio Badge" />
   </a>
 </p>
-<br>
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 

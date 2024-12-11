@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Miguel Soto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<a align="center" src="https://portafolio-one-psi.vercel.app/">PORTFOLIO HERE!!!</a>
 <br>
-
+[PORTFOLIO HERE!!!]([https://utd.edu.mx/](https://portafolio-one-psi.vercel.app/))
+<br>
 <p align="center"> 
 I am a junior programmer. I am currently pursuing my degree in Software Engineering, I have been working with web and mobile applications these last two years, both in FrontEnd and BackEnd. I consider myself a responsible person with what he does and disciplined in what I do. 
  

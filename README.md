@@ -3,49 +3,117 @@ Hi, I'm Miguel Soto
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
+<h3 align="center">
+Software Engineering Student | Web & Mobile Developer
+</h3>
+
 <p align="center">
-Software Engineering student passionate about building web and mobile applications.
-I have experience working on both <b>Frontend</b> and <b>Backend</b> development, creating scalable and user-focused solutions.
-I enjoy learning new technologies, solving complex problems with software, and continuously improving my development skills.
+Building modern web and mobile applications and constantly learning new technologies.
 </p>
 
 <p align="center">
-  <a href="https://portafolio-one-psi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐-View%20My%20Portfolio-blueviolet?style=for-the-badge" alt="Portfolio Badge"/>
+  <a href="https://portafolio-one-psi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge">
   </a>
-</p>
-
----
-
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
-
-- 🎓 Software Engineering student at **Technological University of Durango**
-- 💻 Passionate about using **technology to solve real-world problems**
-- 🚀 Experienced in **Web and Mobile Application Development**
-- 📚 Always learning and exploring **new technologies and frameworks**
-- 💼 Open to **internship or job opportunities**
-- 📄 Check out **[My Resume](https://www.canva.com/design/DAGCiOtogkM/H9ZBzAjF22sXjiLE-bdmQQ/view)**
-
----
-
-<h2 align="center">Languages and Tools</h2>
-
-<p align="center">
-<img width="500px" src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,flutter,express,figma,django,mongo,git,vscode,aws,postman,linux&perline=10"/>
+  <a href="https://www.linkedin.com/in/miguel-soto-diaz-43a291291/">
+    <img src="https://img.shields.io/badge/LinkedIn-Miguel%20Soto-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 ---
 
-<h3 align="center">Connect with me</h3>
+# About Me
+
+🎓 Software Engineering student at **Technological University of Durango**
+
+💻 Experience developing **Web and Mobile Applications**
+
+⚡ Skilled in both **Frontend and Backend development**
+
+📚 Always learning new technologies and improving my skills
+
+💼 Open to **internships and job opportunities**
+
+📄 **Resume:**  
+https://drive.google.com/file/d/10eqUlnHfLeRwmgeFMX-k6TEfvrDBz82O/view?usp=sharing
+
+---
+
+# Featured Projects
+
+### Spotify Platform Clone
+Full stack platform inspired by Spotify with integration of **Machine Learning, Big Data and AI technologies**.
+
+### NOM-035 Psychosocial Risk Platform
+Web application that evaluates psychosocial risks using **React, Tailwind and Google Forms API**.
+
+### WearMusic Controller
+Mobile + Wear OS application that allows **music control from smartwatch using Data Layer API**.
+
+---
+
+# Tech Stack
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miguel-soto-diaz-43a291291/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.facebook.com/people/Miguel-SD/pfbid0RNkTn76KDUHmcdZ4gy1bpFbS7GdHdTS7EVHdFNMg6cYCj9ksNHH7PC3Kv8igcTgkl/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/mikesxre" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=js,py,html,css,react,nodejs,express,flutter,django,mongo,git,linux,aws,figma,vscode,postman&perline=8"/>
+</p>
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight"/>
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO_GITHUB&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+# Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/miguel-soto-diaz-43a291291/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://instagram.com/mikesxre">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://portafolio-one-psi.vercel.app/">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+From <b>Miguel Soto</b>
 </p>

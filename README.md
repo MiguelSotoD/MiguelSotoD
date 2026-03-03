@@ -67,50 +67,6 @@ Mobile + Wear OS application that allows **music control from smartwatch using D
 
 ---
 
-# GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MiguelSotoD&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSotoD&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelSotoD&theme=tokyonight"/>
-</p>
-
----
-
-# GitHub Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelSotoD&theme=tokyo-night"/>
-</p>
-
----
-
-# GitHub Metrics Dashboard
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelSotoD&theme=tokyonight"/>
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MiguelSotoD&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
 # Contribution Snake
 
 <p align="center">

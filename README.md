@@ -12,12 +12,15 @@ Building modern web and mobile applications and constantly learning new technolo
 </p>
 
 <p align="center">
-  <a href="https://portafolio-one-psi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge">
-  </a>
-  <a href="https://www.linkedin.com/in/miguel-soto-diaz-43a291291/">
-    <img src="https://img.shields.io/badge/LinkedIn-Miguel%20Soto-blue?style=for-the-badge&logo=linkedin">
-  </a>
+<a href="https://portafolio-one-psi.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge">
+</a>
+
+<a href="https://www.linkedin.com/in/miguel-soto-diaz-43a291291/">
+<img src="https://img.shields.io/badge/LinkedIn-Miguel%20Soto-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=MiguelSotoD&style=for-the-badge">
 </p>
 
 ---
@@ -35,7 +38,7 @@ Building modern web and mobile applications and constantly learning new technolo
 💼 Open to **internships and job opportunities**
 
 📄 **Resume:**  
-https://drive.google.com/file/d/10eqUlnHfLeRwmgeFMX-k6TEfvrDBz82O/view?usp=sharing
+https://drive.google.com/file/d/10eqUlnHfLeRwmgeFMX-k6TEfvrDBz82O/view
 
 ---
 
@@ -64,9 +67,9 @@ Mobile + Wear OS application that allows **music control from smartwatch using D
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MiguelSotoD&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSotoD&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -75,7 +78,15 @@ Mobile + Wear OS application that allows **music control from smartwatch using D
 # GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelSotoD&theme=tokyonight"/>
+</p>
+
+---
+
+# GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelSotoD&theme=tokyo-night"/>
 </p>
 
 ---
@@ -83,7 +94,7 @@ Mobile + Wear OS application that allows **music control from smartwatch using D
 # GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO_GITHUB&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MiguelSotoD&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
@@ -91,7 +102,7 @@ Mobile + Wear OS application that allows **music control from smartwatch using D
 # Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/MiguelSotoD/MiguelSotoD/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -99,6 +110,7 @@ Mobile + Wear OS application that allows **music control from smartwatch using D
 # Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/miguel-soto-diaz-43a291291/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
@@ -110,6 +122,7 @@ Mobile + Wear OS application that allows **music control from smartwatch using D
 <a href="https://portafolio-one-psi.vercel.app/">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
 </p>
 
 ---

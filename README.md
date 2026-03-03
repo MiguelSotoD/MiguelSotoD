@@ -12,15 +12,17 @@ Building modern web and mobile applications and constantly learning new technolo
 </p>
 
 <p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MiguelSotoD&style=for-the-badge"/>
+
 <a href="https://portafolio-one-psi.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/miguel-soto-diaz-43a291291/">
-<img src="https://img.shields.io/badge/LinkedIn-Miguel%20Soto-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Miguel%20Soto-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=MiguelSotoD&style=for-the-badge">
 </p>
 
 ---
@@ -44,13 +46,13 @@ https://drive.google.com/file/d/10eqUlnHfLeRwmgeFMX-k6TEfvrDBz82O/view
 
 # Featured Projects
 
-### Spotify Platform Clone
-Full stack platform inspired by Spotify with integration of **Machine Learning, Big Data and AI technologies**.
+🚀 **Spotify Platform Clone**  
+Full stack platform inspired by Spotify integrating **Machine Learning, Big Data and AI technologies**.
 
-### NOM-035 Psychosocial Risk Platform
+🧠 **NOM-035 Psychosocial Risk Platform**  
 Web application that evaluates psychosocial risks using **React, Tailwind and Google Forms API**.
 
-### WearMusic Controller
+⌚ **WearMusic Controller**  
 Mobile + Wear OS application that allows **music control from smartwatch using Data Layer API**.
 
 ---
@@ -91,18 +93,18 @@ Mobile + Wear OS application that allows **music control from smartwatch using D
 
 ---
 
-# GitHub Trophies
+# 3D Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MiguelSotoD&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelSotoD&theme=tokyonight"/>
 </p>
 
 ---
 
-# Contribution Snake
+# GitHub Trophies
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/MiguelSotoD/MiguelSotoD/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MiguelSotoD&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---

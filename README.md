@@ -67,34 +67,6 @@ Mobile + Wear OS application that allows **music control from smartwatch using D
 
 ---
 
-# Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/MiguelSotoD/MiguelSotoD/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/miguel-soto-diaz-43a291291/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://instagram.com/mikesxre">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-<a href="https://portafolio-one-psi.vercel.app/">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
 <p align="center">
 From <b>Miguel Soto</b>
 </p>
